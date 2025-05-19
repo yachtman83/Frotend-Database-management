@@ -82,9 +82,9 @@
 
 | Таблица данных | Редактирование записи |     Вход        |
 |----------------|------------------------|----------------|
-| ![Таблица](![image](https://github.com/user-attachments/assets/fde326c1-7cba-4587-8962-04ecce5d8b51)
-) | ![Редактирование](![image](https://github.com/user-attachments/assets/90e3ab6c-615b-4709-800d-bc0e4cc14d9e)
-) | ![Вход](![image](https://github.com/user-attachments/assets/6c46cd99-8a8e-436b-a605-195737dc8f96)
+| ![Таблица](https://github.com/user-attachments/assets/fde326c1-7cba-4587-8962-04ecce5d8b51)
+) | ![Редактирование](https://github.com/user-attachments/assets/90e3ab6c-615b-4709-800d-bc0e4cc14d9e)
+) | ![Вход](https://github.com/user-attachments/assets/6c46cd99-8a8e-436b-a605-195737dc8f96)
 ) |
 
 ---
